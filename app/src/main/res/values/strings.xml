@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Carfox</string>
+    <string name="call_dealer">Call Dealer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="vehicle_title">%1$s %2$s %3$s</string>
+    <string name="vehicle_details">%1$s | %2$s mil</string>
+    <string name="vehicle_info">Vehicle Info</string>
+    <string name="location">Location</string>
+    <string name="exterior_color">Exterior Color</string>
+    <string name="interior_color">Interior Color</string>
+    <string name="drive_type">Drive Type</string>
+    <string name="transmission">Transmission</string>
+    <string name="body_style">Body Style</string>
+    <string name="engine">Engine</string>
+    <string name="fuel">Fuel</string>
+</resources>
